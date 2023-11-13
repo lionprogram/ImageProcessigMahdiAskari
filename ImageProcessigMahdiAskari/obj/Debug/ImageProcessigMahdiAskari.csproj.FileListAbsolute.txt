@@ -1,0 +1,9 @@
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\bin\Debug\ImageProcessigMahdiAskari.exe.config
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\bin\Debug\ImageProcessigMahdiAskari.exe
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\bin\Debug\ImageProcessigMahdiAskari.pdb
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\obj\Debug\ImageProcessigMahdiAskari.csprojResolveAssemblyReference.cache
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\obj\Debug\ImageProcessigMahdiAskari.Form1.resources
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\obj\Debug\ImageProcessigMahdiAskari.Properties.Resources.resources
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\obj\Debug\ImageProcessigMahdiAskari.csproj.GenerateResource.Cache
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\obj\Debug\ImageProcessigMahdiAskari.exe
+c:\users\mahdi\documents\visual studio 2017\Projects\ImageProcessigMahdiAskari\ImageProcessigMahdiAskari\obj\Debug\ImageProcessigMahdiAskari.pdb
